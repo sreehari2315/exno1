@@ -44,5 +44,5 @@ STEP 6: Use zscore of to remove outliers
 ![intro to ds 21](https://github.com/Karthickraja23006120/exno1/assets/139335315/9c330ec4-fe6b-42b8-98f6-682d2cb54b47)
 ![intro to ds 22](https://github.com/Karthickraja23006120/exno1/assets/139335315/325ca5b6-2436-42e9-84aa-d3f3b5c6d5d1)
 ![intr to ds 6](https://github.com/Karthickraja23006120/exno1/assets/139335315/46cee33f-1ea3-410b-85c6-6b4f309a1da7)
-# Result
-          <<include your Result here>>
+# ResultHence 
+The Data cleaning process and the outlayer detection is performed
